@@ -1,0 +1,15 @@
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\Tema_3_HW_7_Primer_56.csproj.AssemblyReference.cache
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\Tema_3_HW_7_Primer_56.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\Tema_3_HW_7_Primer_56.AssemblyInfoInputs.cache
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\Tema_3_HW_7_Primer_56.AssemblyInfo.cs
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\Tema_3_HW_7_Primer_56.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\bin\Debug\net6.0\Tema_3_HW_7_Primer_56.exe
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\bin\Debug\net6.0\Tema_3_HW_7_Primer_56.deps.json
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\bin\Debug\net6.0\Tema_3_HW_7_Primer_56.runtimeconfig.json
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\bin\Debug\net6.0\Tema_3_HW_7_Primer_56.dll
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\bin\Debug\net6.0\Tema_3_HW_7_Primer_56.pdb
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\Tema_3_HW_7_Primer_56.dll
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\refint\Tema_3_HW_7_Primer_56.dll
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\Tema_3_HW_7_Primer_56.pdb
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\Tema_3_HW_7_Primer_56.genruntimeconfig.cache
+D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_56\obj\Debug\net6.0\ref\Tema_3_HW_7_Primer_56.dll
