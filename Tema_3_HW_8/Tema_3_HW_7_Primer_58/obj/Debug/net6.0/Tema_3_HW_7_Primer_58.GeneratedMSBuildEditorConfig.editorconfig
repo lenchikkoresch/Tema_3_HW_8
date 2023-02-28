@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tema_3_HW_7_Primer_58
+build_property.ProjectDir = D:\Учеба\Практика\Тема_3\Tema_3_Semenar_8\Tema_3_HW_8\Tema_3_HW_7_Primer_58\
